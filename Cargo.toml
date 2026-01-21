@@ -23,6 +23,7 @@ bluetooth = []
 
 
 [dependencies]
+cyw43 = "0.6.0"
 
 [dev-dependencies]
 
